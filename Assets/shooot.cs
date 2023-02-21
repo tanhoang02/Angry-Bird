@@ -1,10 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
-
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
-using UnityEngine.UIElements;
+using UnityEngine.Windows;
 
-public class NewBehaviourScript : MonoBehaviour
+public class shooot : MonoBehaviour
 {
     public LineRenderer[] lineRenderers;
     public Transform[] stripPositions;
@@ -16,9 +16,9 @@ public class NewBehaviourScript : MonoBehaviour
     public float bottomBoundary;
     public GameObject birdPrefab;
     public float birdPositionOffset;
-   // public GameObject PointPrafeb;
-   // public int numberOfpoints;
-   // public GameObject Points;
+    // public GameObject PointPrafeb;
+    // public int numberOfpoints;
+    // public GameObject Points;
     public float LaunchForce;
 
 
@@ -62,18 +62,18 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (isMouseDown)
         {
-            Vector3 mousePosition = Input.mousePosition;
+            Vector3 mousePosition= UnityEngine.Input.mousePosition;
             mousePosition.z = 10;
-            currentPosition = Camera.main.ScreenToWorldPoint(mousePosition);
+            currentPosition=Camera.main.ScreenToWorldPoint(mousePosition);
             currentPosition = center.position + Vector3.ClampMagnitude(currentPosition - center.position, maxLenght);
             currentPosition = ClampBoundary(currentPosition);
-
+          
 
             SetsStrips(currentPosition);
-       
-        if (birdCollider)
-        {
-            birdCollider.enabled = true;
+
+            if (birdCollider)
+            {
+                birdCollider.enabled = true;
                 /*   for (IntInspector = 0;if< Points.Leghth;i++)
                        {
                        Points[i].transform.position = PointPosition(i * 0.1f);
@@ -85,14 +85,15 @@ public class NewBehaviourScript : MonoBehaviour
         {
             ResetStrip();
         }
-       
+
 
     }
 
     private void OnMouseDown()
     {
+        Debug.Log(123);
         isMouseDown = true;
-        
+
     }
     private void OnMouseUp()
     {
@@ -107,11 +108,12 @@ public class NewBehaviourScript : MonoBehaviour
         bird = null;
         birdCollider = null;
         Invoke("CreateBird", 2);
+          
 
     }
     void ResetStrip()
     {
-     
+
         currentPosition = idlePosition.position;
         SetsStrips(currentPosition);
     }
@@ -133,10 +135,9 @@ public class NewBehaviourScript : MonoBehaviour
         vector.y = Mathf.Clamp(vector.y, bottomBoundary, 4000);
         return vector;
     }
-   /* Vector2 PointPosition(float t)
-    {
-        Vector2 currentPointPosition = transform.position + (currentPosition - center.position) * force * -1 * t)+0.5f * Physics2D.gravity * (t * t);
-        return currentPointPosition;
-    }*/
+    Vector2 PointPosition(float t)
+     {
+         Vector2 currentPointPosition = (Vector2)transform.position + ((Vector2)(currentPosition - center.position) * force * -1 * t) + 0.5f * Physics2D.gravity * (t * t);
+         return currentPointPosition;
+     }
 }
-
