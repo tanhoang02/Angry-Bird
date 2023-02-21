@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
+
 using UnityEngine;
 using UnityEngine.Windows;
 
@@ -16,16 +16,17 @@ public class shooot : MonoBehaviour
     public float bottomBoundary;
     public GameObject birdPrefab;
     public float birdPositionOffset;
-    // public GameObject PointPrafeb;
-    // public int numberOfpoints;
-    // public GameObject Points;
+    public GameObject PointPrafeb;
     public float LaunchForce;
-
+    public GameObject[] Points;
+    public int numPoint;
+    bool isMouseDown;
 
     Rigidbody2D bird;
     Collider2D birdCollider;
 
-    bool isMouseDown;
+   
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,17 +37,17 @@ public class shooot : MonoBehaviour
         lineRenderers[1].SetPosition(0, stripPositions[1].position);
 
         CreateBird();
-        //CreatePoint();
+        CreatePoints();
 
     }
-    /*void CreatePoint()
+   private void CreatePoints()
     {
         Points = new GameObject[numPoint];
         for (int i = 0; i < numPoint; i++)
         {
-            Points[i] = Instantiate(PointPrafeb, transform.position, Quaternion.identity);
+            Points[i] = Instantiate(PointPrafeb, bird.transform.position, Quaternion.identity);
         }
-    }*/
+    }
     private void CreateBird()
     {
         bird = Instantiate(birdPrefab).GetComponent<Rigidbody2D>();
@@ -73,20 +74,21 @@ public class shooot : MonoBehaviour
 
             if (birdCollider)
             {
-                birdCollider.enabled = true;
-                /*   for (IntInspector = 0;if< Points.Leghth;i++)
-                       {
-                       Points[i].transform.position = PointPosition(i * 0.1f);
 
-                   }*/
+                birdCollider.enabled = true;}
+
+                for (int i = 0; i < Points.Length; i++)
+
+            
+            {
+                Points[i].transform.position = PointPosition(i * 0.1f);
+
             }
         }
         else
         {
             ResetStrip();
         }
-
-
     }
 
     private void OnMouseDown()
