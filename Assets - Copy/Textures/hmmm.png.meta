@@ -1,0 +1,6064 @@
+fileFormatVersion: 2
+guid: 3f42163152d8ebd46b2cee40af3abd53
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hmmm_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 919
+        width: 277
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e599e92adb594698694d8b51f3846
+      internalID: -412860226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 930
+        width: 225
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e0d3cdd34ac9c4eb84bba31049588d
+      internalID: 634388944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 796
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe0c62389b85b40b8a3bfcf2447509
+      internalID: -1961147839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 939
+        width: 179
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b88ba22742097243bb38395619e91ed
+      internalID: 1813348662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 942
+        width: 161
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c742060097a747b91a94e7660f6b1
+      internalID: 1823891016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_5
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 878
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472c8c765a9fed4da9a7f42e6d8e5e3
+      internalID: -839300613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 900
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998923968873f3e48bee687532ae9af4
+      internalID: 2128500926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 734
+        width: 32
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee1576e82eefe4781761f7862f3a95
+      internalID: 891944200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 770
+        width: 51
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4006195a83fc974080cec788b769ad2
+      internalID: -443537154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 787
+        width: 5
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671eea92cd0c06d48bcae02afddb8475
+      internalID: 580981701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 731
+        width: 87
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d15b486f0d0bf4caaf077e83fc86f8
+      internalID: -1069427267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 878
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2cb3522d9d494391bd4b35e12879c
+      internalID: 81281241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_12
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 905
+        width: 151
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e6f108f8ddf564898f5b14b5514d6d
+      internalID: -883906336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_13
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 888
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69edf47ac38a14c80b3f58671ac1dd
+      internalID: 1734616606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 877
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eedf12a4413ca46adad7810bc73cc5
+      internalID: -327631355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 165
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36219bcc684051f4b9227e318904fb26
+      internalID: -1124939642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 845
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af62f66d14410f4a9d43d05614536c3
+      internalID: -1754969447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 833
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ec9ddba689674683207d1c6f01abb
+      internalID: 812272919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 799
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4c94d112938042b16a887e438febd
+      internalID: -1264246940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 859
+        width: 149
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c70a7168fc71498cf8b3e5466a59e
+      internalID: 1093165971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 851
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff10f273719d8544ab5f11bd60ea579
+      internalID: -2023341512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 859
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121dcf162a00cb14c824d886585552f1
+      internalID: 736462854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 759
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0109ac58fa254385fc857748d0b94
+      internalID: 887643699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_23
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 804
+        width: 14
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a9bfede411c04ba7b085b036d9410
+      internalID: 20006110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 807
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d2751c0d5c324697536de7a5f1501
+      internalID: -424136784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 732
+        width: 115
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf9d044fa2ae047b015cfa6fc1448f
+      internalID: -293845396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 793
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a533ac82552e2b488513a0faf26c29c
+      internalID: -756392972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_27
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 784
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff12f02b703f884388882a1697f1c48
+      internalID: -1446694850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_28
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 798
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3995ef16776f45b7e65da4f951e60
+      internalID: 666612211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 776
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627265e444ce7b64db03fa05acd3d09c
+      internalID: -2121203239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 783
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd56c41aebe9a9f4bac2962208001699
+      internalID: -1767147059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 670
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79f92f539053a4187e1dde524d1812
+      internalID: -400419106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 755
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09c65ccca25166499bc444f0b7288a2
+      internalID: -1079851146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 756
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde614424556de4188b115a67b60438
+      internalID: 288829717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 637
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba8425a8b740a4dabedb7260f8c15a
+      internalID: 1150405947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 743
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731294c1ee6cf2949a68da66b0ed43ea
+      internalID: 1840299683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 738
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1fc33586db45d44a2a37a10713ec6d
+      internalID: -1914473804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_37
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 752
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15eec2881590347ac4c2146e499704
+      internalID: 556223696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_38
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 738
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4679ae56691a46951b4b92a16fdc0
+      internalID: 1522839724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_39
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 634
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00862b32088981498581cc3089bec8e
+      internalID: -1592371083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 659
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2975a5a1c8d3e49a36c55ce8b66ce5
+      internalID: -2136839522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 610
+        width: 26
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc261f6f6b40644905908b921a693b
+      internalID: 1404344866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_42
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 717
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e67997e77de7b4eaa50c4c29d88d31
+      internalID: -38348039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_43
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 729
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9a2c421edad742a91b470f14f663a
+      internalID: -1040267296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 660
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae66c8c4b0b77c4fa8d0862ba86f094
+      internalID: -691483597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 617
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467b164838bf31b4c8e517153757ba9e
+      internalID: 729935496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_46
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 635
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f09c04b9ba494e8307519c121aaf2
+      internalID: -750687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 617
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af312d426f501044a65878614f43d27
+      internalID: -121675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 618
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6046ca213f5494a8758176b2a4622a
+      internalID: -810903958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 641
+        width: 25
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118ecc23303df447b9555cd44c8cccd
+      internalID: -1859774512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 682
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f591b84cc28347a9ead05698f00a3
+      internalID: 1565288781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 704
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b359aa831d84e14497837b438d64499
+      internalID: -501851807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_52
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 676
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41628152c3db5d46b444ef022dc0c21
+      internalID: -109699791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 677
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3b07f663a6154d84d522af5e46638
+      internalID: -215226365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_54
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 689
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34692b36c7ee88f49a2c4947c3985fcb
+      internalID: -222724286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 639
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9af97892a93894e977e1b7272ade10
+      internalID: 1685267868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 610
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac16a29d9bb8814490d05c5717b9172
+      internalID: 1806061626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_57
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 551
+        width: 46
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b3a883b76a0b4faf25be08f56e525
+      internalID: 58671429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 552
+        width: 45
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c3ff8e1ddba94eaa9fe7a559e8a9f
+      internalID: -1460418222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_59
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 660
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569935906cef1f649a9340b90b948166
+      internalID: 1300292442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 506
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d1698108b922147b30477f1e4098d5
+      internalID: 221018013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 606
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856ceeec3c94f8745bf559b3ecc929fe
+      internalID: -1427096308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 606
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a6cfa53a9914439304a73fbb1e8fb
+      internalID: 703356476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 614
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da1073f1ca4854d96e7f8a65fccb7c
+      internalID: -175393956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 614
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cdc4722b253d741878e2f363c14cbf
+      internalID: 78742467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_65
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 597
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e1273736af0f4e88571692504076c
+      internalID: -1768114268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_66
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 558
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0678d7611c79a4fa97ac63ee99bc5a
+      internalID: -552720965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_67
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 520
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078df03924d06049885066db11c1f2b
+      internalID: 72821533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_68
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 535
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1df9b362aa5d43bc536f7a15f7034
+      internalID: 134716400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_69
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 537
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639163c49881f194ebdb5f781a2d3be6
+      internalID: 1127715152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 564
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5849074ac736499b03a88c243f085
+      internalID: 705491810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_71
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 605
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694943787b5b8b4797e4cb0f80dfbc0
+      internalID: -1141839558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_72
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 543
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e796149e1d9848ba52a1b5b3ef333
+      internalID: 1904042171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_73
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 589
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37377dcf2d7c546ae59a4e48895d6a
+      internalID: -1411377908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_74
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 595
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4180dec044673c4a9963f5c412a3144
+      internalID: -607981804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 568
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a32cdb746b6d04ca375905a90cbc79
+      internalID: 1344734249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 554
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0b0d20bad0634aa649d185af1557e
+      internalID: -1368738065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_77
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 551
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee880053cb760c4a99adf13101d4d02
+      internalID: 1080441883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 516
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176136c7d9a6f145852c8af6fa50bc6
+      internalID: 2073069518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_79
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 565
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3721dae57760bf546b591c279a129887
+      internalID: 50717111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 459
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034856189892594db0b46086fbd3950
+      internalID: 831324106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_81
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 502
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d327b4e8f10ac246b12050d0c156907
+      internalID: 1789083686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_82
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 499
+        width: 99
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8ed0bced44cd4a9a6259205de2e76
+      internalID: 2098127158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 454
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121c6c42ff38bd4fb65d81ca4ac24d6
+      internalID: -2055143929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 519
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd32c98feb378f48858d2568d6fa450
+      internalID: -670326117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_85
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 511
+        width: 95
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bde8e7c893a6a46aa520a2a2d4101f
+      internalID: 1612742492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 523
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3976d5eb942041a33ea0c72a8b709
+      internalID: 1691557807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_87
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 439
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37fae3f1615ac64885249699995f3db
+      internalID: 1760045603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_88
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 441
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9c4897b8af4b468d750a363aef0c8
+      internalID: -1718821550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_89
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 471
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18109bdb9f1d9c479560c6ad124c0f3
+      internalID: -1775706386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de65a0a4e56079419e498fb51cfbd57
+      internalID: -760918552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 472
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b63e06a02bc3545bafa6e9f2ab42bc
+      internalID: 1605656473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_92
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 404
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01492d58458e141a13ee9b6c30d7fe
+      internalID: -912495623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 452
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3bbaba19571340b50267114a09bae
+      internalID: -906189836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_94
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 453
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f32aba7a6b614697cbd6b488054e4
+      internalID: -1050953454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_95
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 419
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73c06787acad448bccd71d2561bbea
+      internalID: 1087518314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 465
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a927c64b486bae44bd3a4d0a24f6d9d
+      internalID: 1864356125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_97
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 427
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6ba8301d8d774bacc692fda005a9a
+      internalID: -1978556486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 459
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdae082ee2bde04b870a3fd4507b6cd
+      internalID: -518510867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_99
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 427
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b50d87a32a879647ad5df43a2eddd55
+      internalID: 2132596031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_100
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 376
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad79e451b6ea1744aab5ebbcd8bbd99
+      internalID: 1634458859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_101
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 396
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8dae4dddcfcbf41a869dfd3aed970c
+      internalID: -1891153940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 362
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b89de4398f0c74bb6cefcdfa76e95e
+      internalID: 1691250526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_103
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 405
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c557e7910f9343abb1f1ad101d4e8
+      internalID: 1232936318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 405
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292de3b169947a46800684a3b0b7562
+      internalID: -346458913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_105
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 359
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5c6f41d422b454bb105fda5b12b8b0
+      internalID: -21184249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_106
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 360
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3448b8718634cb49b31c91e5950280d
+      internalID: -1967485745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_107
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 376
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa868de47d0f246b8c1a95524033e9
+      internalID: 52967530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_108
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 384
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af025ebacb52b514cbe8715548dbeaa6
+      internalID: 119547142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_109
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 381
+        width: 87
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6dc309f3d53f4bbdeac5501b14a0e
+      internalID: -2028419245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_110
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 378
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f17216a6a9a7149a57bbed69f69fdf
+      internalID: 734450659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_111
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 373
+        width: 5
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b23edeea430f4888b59977a319cb4
+      internalID: -1151659088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_112
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 408
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6284dc1664f1a7144abdaa29c83e0ab2
+      internalID: 1199960496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_113
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 373
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76537a2207e8241428948040956295e5
+      internalID: -840005072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_114
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 346
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1eb69b8dc90554fbab2a1f0ae2a974
+      internalID: 1539818539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 382
+        width: 91
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc60b3784564854b90a29b9e7a0e363
+      internalID: -1867158358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_116
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 382
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40c42ceff090449937b74560396e56
+      internalID: -1744048304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_117
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 378
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb83c1769433d054887960f009b0baa4
+      internalID: 952469605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_118
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 376
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bacb20be74ad4eb76643a1474d405
+      internalID: 753472334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_119
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 290
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eed9edd4ebd3940bddc21b134d3193
+      internalID: -1478954369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_120
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 371
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084bddff3ef18c94c8248447ffa2e34b
+      internalID: 1497109488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_121
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 292
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e72047b26bb845a3e90492278ae62
+      internalID: 1240101067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 302
+        width: 15
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74b871a92297104f83a4873a1f3bec2
+      internalID: 1221349731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_123
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 295
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c855b658f7874dbaade72601382a7
+      internalID: 217923341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_124
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 298
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d872850815544bb667ba4f795e4eb
+      internalID: 1774054427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_125
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 298
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c19b5935dc0844899e0e92ccac7f0
+      internalID: -156235026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_126
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 286
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347e71b1c9bbcb40a4a31c0e9702f34
+      internalID: -528806595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35408222cbcf94db229e65b11fb64a
+      internalID: 723676783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_128
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beafd82c5d5044c4fae38a84d334816e
+      internalID: 1494802564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_129
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 346
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e410264b7eb99841bdc687437d1f57d
+      internalID: -1173925232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_130
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 275
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c8e2e779b21348b73f19d22d05ffe
+      internalID: -1479114098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_131
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 275
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06e6ea9c05ed848a1a1bfae1a697f9
+      internalID: -368738834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_132
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 276
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca3d7eafcc4454fb36ddf9a4a1c770
+      internalID: 1002070358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_133
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 298
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7bef76282d0aa4a8c4ddcecd88d486
+      internalID: 840264634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_134
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 325
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fb57c177401943b2bda4a16bc77a1
+      internalID: 323216561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_135
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 296
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b44d1b9a57c8498ab5fc02d48c2d9
+      internalID: -283876352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_136
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 313
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738fe04e4cc15bd40b219655893127a1
+      internalID: 1145407951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d38c825ceb2941806dc9a29ee59cf
+      internalID: -1056701418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_138
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 265
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1925f295ee0bda4e883d0b7f0fb65ca
+      internalID: -1984237520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_139
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 298
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5f09b5e1255d4db4e8959083f373c
+      internalID: 365839594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_140
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 286
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ad0a4e0459e54f8e10a2a0c1b257c
+      internalID: -1263086423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_141
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 289
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92c61f003e52947982641a8c2e5726
+      internalID: -1804437509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_142
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 207
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601f0f3057b757f4bbf035171ea4e6f6
+      internalID: -1694260203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_143
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 275
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5f357e932705244b47b051936b3252
+      internalID: 831153406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_144
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 275
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef2baa21ef79f4f9f01fd9e4d8c52d
+      internalID: 2139495934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_145
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 218
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a2a77140db6d449c5acbabfc22c85
+      internalID: -1144823119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_146
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 248
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d32efeabb75bfa48ac7a4487b952ec4
+      internalID: -988032639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_147
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 220
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515f3bc10c22ee4a8eacbb1deea6dc7
+      internalID: -2090806096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_148
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 221
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50cbd7cb8bd4244880aae4c6999be3
+      internalID: -2139346607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_149
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc90e4b4ffbcbf4cb44237e5722bc32
+      internalID: -591000165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_150
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 273
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12da7514fc5b5944813d50fe2e06ffd
+      internalID: 581956642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_151
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 223
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb6224444009a4189aa10bdb8cc6b2
+      internalID: -882951188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_152
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 216
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce8d22ba283b44288cc8afdbc1612d
+      internalID: -1175833528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25bbb3a01b328428c4877aa090ead7
+      internalID: 1633138847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a43d9ad4523c49bbe9c6fdd2f9c56
+      internalID: -201124086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 227
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9419ae87cd3fe264eb7d508ff4c55d24
+      internalID: -1074634464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_156
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfed83467d2cc47849e0cc15b9eac7
+      internalID: -1669034537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_157
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 197
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ade4d7c4efc864bb414efca3c8aff9
+      internalID: -1085950933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 251
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8493289aa4f45948be0e109c1d07ac8
+      internalID: -214629524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_159
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 251
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ea9ad8501e0fd42982f440401e3d00
+      internalID: 1603271837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_160
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 202
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da5dbb1b1c8184fb07fac98ceb3945
+      internalID: 1037543670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_161
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 200
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9094c51d50cb21e4a9170438b15f075d
+      internalID: -334937159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_162
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 177
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e19baca6a6a3446985b471b76bfcd2
+      internalID: -440204539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_163
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd413f9292b1c5c4c8e96efafe513511
+      internalID: 1236402054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_164
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 218
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414bad5cd8f4e444ab1084851e41646e
+      internalID: 2100849378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_165
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 162
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadec364241b8bc4183bb7941b1b4e8f
+      internalID: -1041395856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_166
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 175
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd4a5fc9f0f7e4eb2f4fbe983125e4
+      internalID: 146470636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_167
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 158
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56819a3cb5f5014491a527a4997da10
+      internalID: 1042190277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_168
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 165
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6ffc018118cd41ac8a3feb143fc6c
+      internalID: -1140895991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 135
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca841840ccc28504cbbc96c700c287c4
+      internalID: -1743452516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 139
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4093a3e3c3aeb4baa9a1f5d5313413
+      internalID: -444576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_171
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 197
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239029ad585a6e4986048ffa7e2615e
+      internalID: 1329088234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_172
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 141
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ed610e8030904ba1ecc604d292c10
+      internalID: 1857764359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 161
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb785b73f8e8d428e98b9848fd2bc8
+      internalID: -1983349462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_174
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 161
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b092f08438ae49be930e4b211bf63
+      internalID: 44630207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_175
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 162
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9cf1a8fb1528647adf61bb753bff8a
+      internalID: 1209255591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_176
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 187
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84403ff083dc54bb91a88b304cb7f2
+      internalID: 1433471305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_177
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 150
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442e7aade145c7499bb1bb70325692a
+      internalID: 1608328962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_178
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 139
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39d78ee8a26f342b1001d77a397d15
+      internalID: -1359066801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_179
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3a1c7c57a4dc047929731c194cbbc8
+      internalID: 257789132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_180
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 180
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f60fa5a6fb6364fa75edeb83c899f6
+      internalID: -1370530337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_181
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5048d3511b32474d8b031f0deedc751
+      internalID: 636865938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_182
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 135
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781bbf63b90603c41b0febf13abb436b
+      internalID: 748603806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 135
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9660bf772e44a243b40848aa237d747
+      internalID: 1270483973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee23d38d25b594abf4d83cac1f9d1e
+      internalID: 1522293258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_185
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 140
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc9c1d5b0c34e41af6f9b1645a8b36
+      internalID: 1054214106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_186
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 133
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc332ab5300edfd40a9ff0742ee5d142
+      internalID: 912895928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_187
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 144
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b535969eb29e4c8108ad20a602a50
+      internalID: -2131602502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_188
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 99
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ffa68b25f9bae4ca0a31166d3c232a
+      internalID: -285426411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_189
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 99
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e212011d63696f34ebb9c348943de15f
+      internalID: -8556145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_190
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 102
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e5a058abdb60488b954fdd8660293
+      internalID: -1077677506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_191
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 106
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413b2376482e414b9f0dabe96721bad
+      internalID: 1418453357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_192
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 136
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae129cf515e654b988669418ecce08
+      internalID: 1303974713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_193
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 138
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39cace74c8f0f4f9490b136d3abe2b
+      internalID: -305083914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_194
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 117
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53607221d4c679942ae330091254f8f6
+      internalID: 1452174903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_195
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 106
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b70847e6156e49ada8be8b4a3976e
+      internalID: 1926999247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_196
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 91
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121203dff82cffb4fbc353a9850513c7
+      internalID: -1598647527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_197
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 118
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6bd155323150a4994260a340df70e7
+      internalID: -1737535682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_198
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062845c968fe54e4aa0f7bb9a23a3e93
+      internalID: -1695545186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_199
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 68
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d244c45c49fae43b95b8fe3b5b27ef
+      internalID: 807564836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 133
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c85a717ea79c594b89325eb4d746c0f
+      internalID: -354102315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_201
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 109
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3e06d42498594c8dc0dd1d54d46c2
+      internalID: -360398995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_202
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b0c38fd94c40418a8e00732a030e0
+      internalID: -429151118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_203
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 119
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aebc6304cdd0da46bc1b8c0e178c6ad
+      internalID: 679216433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_204
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 61
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce299c4287d822419979021e4b56211
+      internalID: 903727908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_205
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 68
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1114db6740df434b88d494356e73024
+      internalID: 1973470007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_206
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 71
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e117141e249b44bd19a55e4f19b4c
+      internalID: 621935782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_207
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 91
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759ed9ecf97982e4d93b7dd11990b4fe
+      internalID: -1815359948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_208
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 87
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4277597c60a494ebe98460b91b0005
+      internalID: -1930591767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_209
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 106
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66c0d5c32853d4093f35d28b811f8e
+      internalID: 193812929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_210
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac2951813b25834d9490f50d65a705b
+      internalID: -61818178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_211
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 92
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e60f1282c04b4593da0b7f59ecfae
+      internalID: -1636549803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_212
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 91
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0d0759b5d08d4bbc393663fbf85b4
+      internalID: -1516163542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_213
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 91
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e814eb2f5878438f50223a0cc4f8d
+      internalID: 1738641842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_214
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c3cad1508f9941b10d51a36b0fe6e
+      internalID: 794705802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_215
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 96
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e876f35bdd24b4b9b4d5959dc876b9
+      internalID: 202528291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_216
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 91
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa20d63add6a8a418636652c1f63d59
+      internalID: -357441715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_217
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 59
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f41e1b22d3c9f74b93ad7507ddfc719
+      internalID: 165298171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_218
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 82
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eecc3c7af14424cbdf0e11c3170bc4
+      internalID: -1775052816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_219
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 97
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc521813b9a3946803d3784cf992b3
+      internalID: 605938929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_220
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d45ca015dfe0fd4684bd4147f5d5f79
+      internalID: 1309002100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_221
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 35
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261799e273dabcc4e80ae2b930199c68
+      internalID: 234514616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_222
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 33
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354645daeff3c8449a365efbdb5fe43c
+      internalID: -1159811759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_223
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 35
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871c04fc56c629148bf0cbcd81241163
+      internalID: -1450603659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_224
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 37
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c18f293e4b43a48a1eb9cba11e3c53
+      internalID: 1928190316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_225
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 46
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d73804c41e71e4e889ecc1e45735f2
+      internalID: -116512392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_226
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 44
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd51c95ca9e1d4f8fdc2ce84351573
+      internalID: -2057171331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_227
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 40
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cdcf32f8bae1742a565abb475edd3f
+      internalID: 141871561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_228
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 82
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f97c0ed517a94e9f981520c8a0ccd
+      internalID: 245104761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_229
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 74
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b40044c096658438bfbb7f3bae071d
+      internalID: 369778136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_230
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 76
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fadfa7af68e0a42b0a548217628d06
+      internalID: 1783806024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_231
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 14
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee832d432d64b8b45a9358a97e90f9dc
+      internalID: 641975674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_232
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765ab3a47968ae4189c3fa9d0a9bf0a
+      internalID: 640880865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_233
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 12
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe59f89910e47741857c00ce66900c1
+      internalID: 1075638008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_234
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 57
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d82b4b98eceef40b0a8ce7e9c3cae2
+      internalID: -958935010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_235
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 61
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc1fc8546cf694e99a0f3f7a764ac5
+      internalID: 537739350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_236
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 57
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e0f22faad9504db37d45cc43ba618
+      internalID: -1533632064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_237
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 57
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacee30c7850ff74f8c3f26310be7855
+      internalID: 1605700058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_238
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 57
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067648e5387c3a40a75bbadf37c06b7
+      internalID: -1936516466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_239
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a9d204c7166234ab94c931c2aab314
+      internalID: -1339500868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_240
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 33
+        width: 76
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08be95e21ca2a41a9eb9c8d3199cbe
+      internalID: -118454402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_241
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd76aad01461a4e8af715c06bff084
+      internalID: -1096124343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_242
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5683bbd7d9df5e419c081304ad796a1
+      internalID: 1012788479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_243
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26bd67b8a59ffa4f839bfe18562faf3
+      internalID: 225077144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_244
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 29
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255f07b13e997643af7cc659c12ed9c
+      internalID: 383448845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_245
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 32
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833e46824215544aaff827e187b3f03
+      internalID: -962102153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_246
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 34
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7fea4cccce5a4eb1a6df94e05d690
+      internalID: -214679559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_247
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 38
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945c4d304d01a447878878d7b7ceba9
+      internalID: 2141814989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_248
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8d8ebeaf31544fab80edbd0569576
+      internalID: -273115258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_249
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcebf65fbae15543bcfd9b1c5604f0c
+      internalID: -5795235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_250
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 4
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14448f3b53898f748aad79ba6574af7e
+      internalID: 1934940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_251
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f579eb3f7e116746a5df5a15c480200
+      internalID: -1965084252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_252
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faffc5131c05d04f94f0730e766aafe
+      internalID: -221680722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_253
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b83df8b3a36f408d482a3c7af1392
+      internalID: 1299849647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_254
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff211598b5064eb448a72b26b31ce0f1
+      internalID: -1739371737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_255
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81367700f87f5e94fb8a69c49754f77c
+      internalID: -466397027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_256
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7471cb55fc8fb46b4fcdb24f83beac
+      internalID: -886165061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_257
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d596dfded2534498e06516a61a1464
+      internalID: -1029329534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_258
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2a6ea55f3b464a851b63df9833177
+      internalID: 690322135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_259
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 5
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823bea9b809894d45b333d489803b682
+      internalID: -1547855048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_260
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c34c85799fdc64bac32e542d6d0a65
+      internalID: 207841636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_261
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 11
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268bf162a9e3e7042a30c79e2a44de69
+      internalID: -682674952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_262
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 5
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e5b472a8c99a439d14be39b52e21c
+      internalID: 11663698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_263
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f17ce6a9f9d41458f8cfeac2662350
+      internalID: 144444391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_264
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 11
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd773ecf29a3662499c63723d64b97cf
+      internalID: 1251821779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_265
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 19
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f658045289b49f1478b886d7a9827f55
+      internalID: -2075081086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_266
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1a4ffd4b6dbe49b50201e5a86e5f7
+      internalID: -2003992405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_267
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a49ebc0ae8174ebe93ea6abaeb0cf
+      internalID: -907560519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_268
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbac8533ad731489008feaee30ca9d
+      internalID: 27051510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hmmm_269
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed306fefc251fa41b97131da9664f84
+      internalID: 1159063194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hmmm_126: -528806595
+      hmmm_225: -116512392
+      hmmm_59: 1300292442
+      hmmm_196: -1598647527
+      hmmm_222: -1159811759
+      hmmm_69: 1127715152
+      hmmm_219: 605938929
+      hmmm_123: 217923341
+      hmmm_93: -906189836
+      hmmm_67: 72821533
+      hmmm_257: -1029329534
+      hmmm_233: 1075638008
+      hmmm_34: 1150405947
+      hmmm_129: -1173925232
+      hmmm_168: -1140895991
+      hmmm_177: 1608328962
+      hmmm_90: -760918552
+      hmmm_178: -1359066801
+      hmmm_40: -2136839522
+      hmmm_241: -1096124343
+      hmmm_104: -346458913
+      hmmm_155: -1074634464
+      hmmm_30: -1767147059
+      hmmm_16: -1754969447
+      hmmm_165: -1041395856
+      hmmm_246: -214679559
+      hmmm_77: 1080441883
+      hmmm_139: 365839594
+      hmmm_162: -440204539
+      hmmm_42: -38348039
+      hmmm_203: 679216433
+      hmmm_134: 323216561
+      hmmm_137: -1056701418
+      hmmm_180: -1370530337
+      hmmm_98: -518510867
+      hmmm_105: -21184249
+      hmmm_117: 952469605
+      hmmm_240: -118454402
+      hmmm_183: 1270483973
+      hmmm_12: -883906336
+      hmmm_213: 1738641842
+      hmmm_100: 1634458859
+      hmmm_52: -109699791
+      hmmm_255: -466397027
+      hmmm_4: 1823891016
+      hmmm_14: -327631355
+      hmmm_124: 1774054427
+      hmmm_133: 840264634
+      hmmm_191: 1418453357
+      hmmm_161: -334937159
+      hmmm_94: -1050953454
+      hmmm_152: -1175833528
+      hmmm_89: -1775706386
+      hmmm_138: -1984237520
+      hmmm_216: -357441715
+      hmmm_7: 891944200
+      hmmm_61: -1427096308
+      hmmm_108: 119547142
+      hmmm_73: -1411377908
+      hmmm_252: -221680722
+      hmmm_79: 50717111
+      hmmm_244: 383448845
+      hmmm_9: 580981701
+      hmmm_201: -360398995
+      hmmm_127: 723676783
+      hmmm_232: 640880865
+      hmmm_39: -1592371083
+      hmmm_80: 831324106
+      hmmm_220: 1309002100
+      hmmm_102: 1691250526
+      hmmm_109: -2028419245
+      hmmm_210: -61818178
+      hmmm_5: -839300613
+      hmmm_46: -750687697
+      hmmm_28: 666612211
+      hmmm_36: -1914473804
+      hmmm_179: 257789132
+      hmmm_11: 81281241
+      hmmm_142: -1694260203
+      hmmm_103: 1232936318
+      hmmm_190: -1077677506
+      hmmm_97: -1978556486
+      hmmm_202: -429151118
+      hmmm_230: 1783806024
+      hmmm_195: 1926999247
+      hmmm_254: -1739371737
+      hmmm_38: 1522839724
+      hmmm_43: -1040267296
+      hmmm_118: 753472334
+      hmmm_58: -1460418222
+      hmmm_167: 1042190277
+      hmmm_145: -1144823119
+      hmmm_26: -756392972
+      hmmm_181: 636865938
+      hmmm_247: 2141814989
+      hmmm_55: 1685267868
+      hmmm_248: -273115258
+      hmmm_56: 1806061626
+      hmmm_53: -215226365
+      hmmm_256: -886165061
+      hmmm_166: 146470636
+      hmmm_87: 1760045603
+      hmmm_135: -283876352
+      hmmm_159: 1603271837
+      hmmm_229: 369778136
+      hmmm_44: -691483597
+      hmmm_267: -907560519
+      hmmm_32: -1079851146
+      hmmm_64: 78742467
+      hmmm_268: 27051510
+      hmmm_200: -354102315
+      hmmm_75: 1344734249
+      hmmm_228: 245104761
+      hmmm_253: 1299849647
+      hmmm_136: 1145407951
+      hmmm_169: -1743452516
+      hmmm_192: 1303974713
+      hmmm_150: 581956642
+      hmmm_65: -1768114268
+      hmmm_24: -424136784
+      hmmm_60: 221018013
+      hmmm_41: 1404344866
+      hmmm_68: 134716400
+      hmmm_17: 812272919
+      hmmm_92: -912495623
+      hmmm_235: 537739350
+      hmmm_236: -1533632064
+      hmmm_153: 1633138847
+      hmmm_198: -1695545186
+      hmmm_128: 1494802564
+      hmmm_25: -293845396
+      hmmm_143: 831153406
+      hmmm_164: 2100849378
+      hmmm_49: -1859774512
+      hmmm_160: 1037543670
+      hmmm_2: -1961147839
+      hmmm_33: 288829717
+      hmmm_193: -305083914
+      hmmm_114: 1539818539
+      hmmm_163: 1236402054
+      hmmm_157: -1085950933
+      hmmm_218: -1775052816
+      hmmm_146: -988032639
+      hmmm_184: 1522293258
+      hmmm_48: -810903958
+      hmmm_10: -1069427267
+      hmmm_99: 2132596031
+      hmmm_95: 1087518314
+      hmmm_148: -2139346607
+      hmmm_31: -400419106
+      hmmm_0: -412860226
+      hmmm_211: -1636549803
+      hmmm_260: 207841636
+      hmmm_6: 2128500926
+      hmmm_187: -2131602502
+      hmmm_140: -1263086423
+      hmmm_72: 1904042171
+      hmmm_250: 1934940966
+      hmmm_172: 1857764359
+      hmmm_239: -1339500868
+      hmmm_3: 1813348662
+      hmmm_209: 193812929
+      hmmm_226: -2057171331
+      hmmm_45: 729935496
+      hmmm_265: -2075081086
+      hmmm_86: 1691557807
+      hmmm_88: -1718821550
+      hmmm_199: 807564836
+      hmmm_1: 634388944
+      hmmm_223: -1450603659
+      hmmm_37: 556223696
+      hmmm_251: -1965084252
+      hmmm_20: -2023341512
+      hmmm_197: -1737535682
+      hmmm_107: 52967530
+      hmmm_106: -1967485745
+      hmmm_205: 1973470007
+      hmmm_35: 1840299683
+      hmmm_115: -1867158358
+      hmmm_206: 621935782
+      hmmm_175: 1209255591
+      hmmm_144: 2139495934
+      hmmm_224: 1928190316
+      hmmm_208: -1930591767
+      hmmm_214: 794705802
+      hmmm_156: -1669034537
+      hmmm_141: -1804437509
+      hmmm_217: 165298171
+      hmmm_263: 144444391
+      hmmm_76: -1368738065
+      hmmm_158: -214629524
+      hmmm_122: 1221349731
+      hmmm_78: 2073069518
+      hmmm_70: 705491810
+      hmmm_63: -175393956
+      hmmm_189: -8556145
+      hmmm_173: -1983349462
+      hmmm_182: 748603806
+      hmmm_234: -958935010
+      hmmm_132: 1002070358
+      hmmm_112: 1199960496
+      hmmm_23: 20006110
+      hmmm_110: 734450659
+      hmmm_174: 44630207
+      hmmm_149: -591000165
+      hmmm_131: -368738834
+      hmmm_54: -222724286
+      hmmm_154: -201124086
+      hmmm_84: -670326117
+      hmmm_204: 903727908
+      hmmm_269: 1159063194
+      hmmm_71: -1141839558
+      hmmm_238: -1936516466
+      hmmm_101: -1891153940
+      hmmm_212: -1516163542
+      hmmm_259: -1547855048
+      hmmm_207: -1815359948
+      hmmm_119: -1478954369
+      hmmm_66: -552720965
+      hmmm_147: -2090806096
+      hmmm_120: 1497109488
+      hmmm_245: -962102153
+      hmmm_15: -1124939642
+      hmmm_243: 225077144
+      hmmm_266: -2003992405
+      hmmm_258: 690322135
+      hmmm_242: 1012788479
+      hmmm_111: -1151659088
+      hmmm_231: 641975674
+      hmmm_18: -1264246940
+      hmmm_50: 1565288781
+      hmmm_19: 1093165971
+      hmmm_74: -607981804
+      hmmm_29: -2121203239
+      hmmm_125: -156235026
+      hmmm_91: 1605656473
+      hmmm_185: 1054214106
+      hmmm_113: -840005072
+      hmmm_151: -882951188
+      hmmm_8: -443537154
+      hmmm_186: 912895928
+      hmmm_27: -1446694850
+      hmmm_82: 2098127158
+      hmmm_221: 234514616
+      hmmm_96: 1864356125
+      hmmm_262: 11663698
+      hmmm_264: 1251821779
+      hmmm_62: 703356476
+      hmmm_188: -285426411
+      hmmm_130: -1479114098
+      hmmm_22: 887643699
+      hmmm_57: 58671429
+      hmmm_176: 1433471305
+      hmmm_47: -121675968
+      hmmm_121: 1240101067
+      hmmm_171: 1329088234
+      hmmm_237: 1605700058
+      hmmm_13: 1734616606
+      hmmm_51: -501851807
+      hmmm_215: 202528291
+      hmmm_227: 141871561
+      hmmm_170: -444576569
+      hmmm_261: -682674952
+      hmmm_249: -5795235
+      hmmm_21: 736462854
+      hmmm_194: 1452174903
+      hmmm_116: -1744048304
+      hmmm_83: -2055143929
+      hmmm_85: 1612742492
+      hmmm_81: 1789083686
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
